@@ -18,5 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nik-unj&show_icons=true&locale=en&layout=compact" alt="nik-unj" /></p>
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nik-unj&show_icons=true&locale=en" alt="nik-unj" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nik-unj&show_icons=true&locale=en" alt="nik-unj" /></p>
 
