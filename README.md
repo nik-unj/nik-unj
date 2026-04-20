@@ -33,10 +33,9 @@ Open to **freelance** and **full-time** roles — reach out with your idea or re
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nik-unj&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik-unj&layout=compact&theme=tokyonight" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nik-unj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik-unj&layout=compact&theme=tokyonight" alt="Most used languages" height="165" />
 </p>
 
 <p align="center"><sub>Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></sub></p>
