@@ -1,15 +1,42 @@
-<h1 align="center">Hi 👋, I'm Nikunj Agrawal</h1>
-<h3 align="center">Passionate Frontend Developer from India</h3>
+### Hi, I'm Nikunj Agrawal
 
-- 🔭 I’m currently working on **portfolio**
+Flutter developer building **fast, fluid** mobile experiences — production apps with Dart, solid architecture, and UI that feels native on every screen.
 
-- 🌱 I’m currently learning **Flutter & Python**
+- **Focus:** iOS · Android · cross-platform  
+- **Stack:** Flutter · Dart · Firebase · REST APIs  
+- **Now:** Software Engineer @ AV DEVS Solutions (Vadodara) — shipping Flutter apps with clean architecture, GetX, RevenueCat, Stripe, and store releases  
 
-- 💬 Ask me about **Flutter , React , JS**
+**Portfolio:** [nik-unj.github.io](https://nik-unj.github.io)
 
-- 📫 How to reach me **agrawalnikunj2001@gmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nik-unj&show_icons=true&locale=en&layout=compact" alt="nik-unj"  height="200"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nik-unj&show_icons=true&locale=en" alt="nik-unj"  height="200"/> -->
+### Tech I work with
+
+`Flutter` `Dart` `Firebase` `Bloc` `Riverpod` `GetX` `Material` `Cupertino` `REST` `Stripe` `RevenueCat`
+
+---
+
+### Selected product areas
+
+Fleet safety & ops dashboards · Legal awareness & secure capture · Booking & memberships · Accessibility-first mapping · BIK / mileage reporting
+
+---
+
+### Connect
+
+[![Email](https://img.shields.io/badge/Email-agrawalnikunj2001%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:agrawalnikunj2001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-nik--unj-181717?style=flat-square&logo=github)](https://github.com/nik-unj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nik--unj-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nik-unj)
+
+Open to **freelance** and **full-time** roles — reach out with your idea or repo.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nik-unj&show_icons=true&hide_title=true&hide_rank=false&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik-unj&layout=compact&theme=tokyonight&hide_title=false" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <sub>Stats cards by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a> — optional; remove this block if you prefer a minimal profile.</sub>
+</p>
