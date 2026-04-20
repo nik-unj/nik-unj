@@ -16,9 +16,9 @@ Flutter developer building **fast, fluid** mobile experiences — production app
 
 ---
 
-### Selected product areas
+### What I build
 
-Fleet safety & ops dashboards · Legal awareness & secure capture · Booking & memberships · Accessibility-first mapping · BIK / mileage reporting
+Mobile products with real users — recent work touches **fleet safety** & ops dashboards, **legal awareness** & secure capture, **booking** & memberships, **accessibility-first** mapping, and **BIK / mileage** compliance.
 
 ---
 
@@ -32,10 +32,10 @@ Open to **freelance** and **full-time** roles — reach out with your idea or re
 
 ---
 
-<p align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nik-unj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik-unj&layout=compact&theme=tokyonight" alt="Most used languages" height="165" />
-</p>
+</div>
 
-<p align="center"><sub>Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></sub></p>
+<div align="left"><sub>Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></sub></div>
